@@ -1,1 +1,1 @@
-Konzolgeci.IrjadGeci("Ez nem programnyelv.");
+Console.WriteLine("Placeholder");
